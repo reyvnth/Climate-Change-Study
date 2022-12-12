@@ -1,4 +1,4 @@
-# Climate-Change-Study
+# Climate Change Study
 
 
 ![0002](https://user-images.githubusercontent.com/64673748/207172310-84392627-0dce-4266-8f25-457ef6eab8b1.jpg)
